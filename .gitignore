@@ -10,7 +10,7 @@ venv/
 
 # Database
 #this seperates an 'real' environment and 'playground' environment
-db.sqlite3 
+#db.sqlite3 
 
 # Static folder at project root
 /static/
